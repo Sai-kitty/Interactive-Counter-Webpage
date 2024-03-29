@@ -14,3 +14,8 @@ This repository contains an interactive counter webpage built using HTML, CSS, a
 - HTML
 - CSS (Bootstrap for styling)
 - JavaScript (jQuery and Bootstrap JS for functionality)
+## Preview
+<img width="937" alt="image" src="https://github.com/Sai-kitty/Interactive-Counter-Webpage/assets/133792725/375a808a-948e-47c4-a9f2-01362a12e3ff">
+
+
+
